@@ -9,4 +9,4 @@ Homework solutions and practical work completed while following the
   - `homework.ipynb` — completed homework notebook
   - `car_fuel_efficiency_2026.csv` — homework dataset
 
-> **Note: **Additional homework assignments will be added as the course progresses.
+> **Note:** Additional homework assignments will be added as the course progresses.
