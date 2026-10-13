@@ -14,4 +14,8 @@ Homework solutions and practical work completed while following the
   - `faq-doc.md` — about options given for question `6`
   - `car_fuel_efficiency_2026.csv` — homework dataset
   
+- `homework3/` — Machine Learning for Classification
+  - `homework3.ipynb` — completed homework3 notebook
+  - `course_lead_scoring_2026.csv` — homework dataset
+  
 > **Note:** Additional homework assignments will be added as the course progresses.
