@@ -18,7 +18,10 @@ Homework solutions and practical work completed while following the
   - `homework3.ipynb` — completed homework3 notebook
   - `course_lead_scoring_2026.csv` — homework dataset
 
-- `homework4/` — Machine Learning for Classification
+- `homework4/` — Evaluation Metrics for Classification
   - `homework4.ipynb` — completed homework4 notebook
-  
+
+- `homework5/` — Deploying Machine Learning Models
+  - `homework5.ipynb` — completed homework5 notebook
+
 > **Note:** Additional homework assignments will be added as the course progresses.
